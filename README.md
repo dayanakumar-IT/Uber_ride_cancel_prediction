@@ -1,4 +1,5 @@
 # 🚖 User-Focused Data Mining System for Ride-Hailing
+https://github.com/user-attachments/assets/0eec6d48-03f0-4f00-8a13-7eaab1ff4d25
 
 A data-mining and ML pipeline that turns raw ride-booking data into **actionable insights** for riders:
 - 📈 predict surge/peak windows,
